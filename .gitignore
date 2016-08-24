@@ -1,0 +1,6 @@
+src/test/packages/
+.gitignore
+src/test/testweb/obj/
+src/test/.vs/config/applicationhost.config
+src/test/.vs/test/v14/.suo
+*.user
