@@ -12,7 +12,7 @@ namespace test
     {
         protected void Application_Start()
         {
-            //Test
+            //Test ...
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
