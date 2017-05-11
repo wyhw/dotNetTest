@@ -19,6 +19,7 @@ namespace test
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             //Hello world
             //Test dev
+            //Test my
         }
     }
 }
