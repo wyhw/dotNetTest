@@ -24,6 +24,7 @@ namespace test
             //Test delete branch 2
             //Test auto merge branch 4
             //Test pull request 2
+            //test update ref 3
         }
     }
 }
