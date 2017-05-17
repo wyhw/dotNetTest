@@ -22,8 +22,8 @@ namespace test
             //Test my
             //Test Branch
             //Test delete branch 2
-            //Test auto merge branch 4
-            //Test pull request 2
+            //Test auto merge branch
+            //Test branch compare
         }
     }
 }
