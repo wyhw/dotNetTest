@@ -26,6 +26,7 @@ namespace test
             //Test pull request 2
             //test update ref 3
             //test compare 
+            //Test compare auto merge
         }
     }
 }
