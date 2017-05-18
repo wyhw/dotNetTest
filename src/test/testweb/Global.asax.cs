@@ -28,6 +28,7 @@ namespace test
             //test update ref 3
             //test compare 
             //Test compare auto merge
+            //Test auto merge
         }
     }
 }
