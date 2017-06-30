@@ -12,6 +12,7 @@ namespace test
     {
         protected void Application_Start()
         {
+            //test syncd pr 2
             //Test dev compare
             //Test ...
             AreaRegistration.RegisterAllAreas();
@@ -28,6 +29,7 @@ namespace test
             //test update ref 3
             //test compare 
             //Test compare auto merge
+            //Test auto merge
         }
     }
 }
